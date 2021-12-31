@@ -8,6 +8,16 @@
       <url>https://danssorareramblings.github.io/papermod-cover.png</url>
       <link>https://danssorareramblings.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://danssorareramblings.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rankings</title>
+      <link>https://danssorareramblings.github.io/categories/rankings/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danssorareramblings.github.io/categories/rankings/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
