@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Dan&#39;s Sorare Ramblings</title>
+    <title>Tags on Dan&#39;s Ramblings</title>
     <link>https://danssorareramblings.github.io/tags/</link>
-    <description>Recent content in Tags on Dan&#39;s Sorare Ramblings</description>
+    <description>Recent content in Tags on Dan&#39;s Ramblings</description>
     <image>
       <url>https://danssorareramblings.github.io/papermod-cover.png</url>
       <link>https://danssorareramblings.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improv</title>
+      <link>https://danssorareramblings.github.io/tags/improv/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danssorareramblings.github.io/tags/improv/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Player Prospectus</title>
       <link>https://danssorareramblings.github.io/tags/player-prospectus/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://danssorareramblings.github.io/tags/player-prospectus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shane O&#39;Neill</title>
-      <link>https://danssorareramblings.github.io/tags/shane-oneill/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/shane-oneill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toronto FC</title>
-      <link>https://danssorareramblings.github.io/tags/toronto-fc/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/toronto-fc/</guid>
       <description></description>
     </item>
     
@@ -52,51 +43,6 @@
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://danssorareramblings.github.io/tags/mls/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nashville SC</title>
-      <link>https://danssorareramblings.github.io/tags/nashville-sc/</link>
-      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/nashville-sc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New England Revolution</title>
-      <link>https://danssorareramblings.github.io/tags/new-england-revolution/</link>
-      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/new-england-revolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seattle Sounders</title>
-      <link>https://danssorareramblings.github.io/tags/seattle-sounders/</link>
-      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/seattle-sounders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sporting KC</title>
-      <link>https://danssorareramblings.github.io/tags/sporting-kc/</link>
-      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/sporting-kc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vancouver Whitecaps</title>
-      <link>https://danssorareramblings.github.io/tags/vancouver-whitecaps/</link>
-      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/tags/vancouver-whitecaps/</guid>
       <description></description>
     </item>
     
